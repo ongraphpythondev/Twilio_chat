@@ -39,8 +39,3 @@ Every sample in the demo requires some basic credentials from your Twilio accoun
 `TWILIO_API_SECRET` | Used to authenticate - [just like the above, you'll get one here](https://www.twilio.com/console/dev-tools/api-keys).
 `TWILIO_CHAT_SERVICE_SID`  | Generate one in the [Twilio Chat console](https://www.twilio.com/console/chat/services)
 
-
-# See some examples of our application
-
-<img src="images/Screenshot(92).png">
-<img src="images/Screenshot(93).png">

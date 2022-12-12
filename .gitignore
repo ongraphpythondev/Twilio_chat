@@ -1,1 +1,5 @@
 .env
+venv/
+chat/__pycache__/
+chat/migrations/__pycache__/
+chatroom_app/__pycache__/
